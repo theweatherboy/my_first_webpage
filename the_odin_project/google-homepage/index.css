@@ -1,0 +1,12 @@
+nav {
+    font-size: 14px;
+    font-family: Roboto, arial, sans-serif;
+    color: #404040;
+    display: flex;
+    align-items: flex-end;
+}
+
+form {
+    display: flex;
+    align-content: center;
+}
